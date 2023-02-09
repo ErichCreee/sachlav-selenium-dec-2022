@@ -46,11 +46,11 @@
   </component>
   <component name="RunManager" selected="Application.Hw_01">
     <configuration name="Hw_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homwork.Hw_01" />
+      <option name="MAIN_CLASS_NAME" value="Homework.Hw_01" />
       <module name="SachlavSeleniumDecember2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homwork.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
